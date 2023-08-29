@@ -1,0 +1,25 @@
+<html>
+<head>
+<link rel="stylesheet" href="hello.css">
+</head>
+<body>
+<div class="container">
+<h1>Temperature convertor</h1>
+<span>
+<label class="header">Degree</label><br>
+<input type="text" id="num1" placeholder="0.0000" class="inp">
+</span>
+<span>
+Type
+<select id="option" class="opt">
+<option value="1">Fahrenheit</option>
+<option value="2">celsius</option>
+</select></span><br>
+<label class="h3">Result</label><br>
+<input type="text" id="ans" placeholder="0.0000" class="ans"><br>
+<input type="button" class="btn" value="Convert" onclick="convert();">
+<h4 id="for" class="formula"></h4>
+</div>
+<script src="hello.js"></script>
+</body>
+</html>

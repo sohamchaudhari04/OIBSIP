@@ -1,0 +1,59 @@
+*{
+font-weight:bold;
+
+}
+.container{
+    border:2px solid ;
+    border-radius:5px;
+    width:fit-content;
+    padding:20px;
+margin-left:500px;
+margin-top:200px;
+}
+.btn{
+    margin:20px;
+padding:10px;
+width:350px;
+border:none;
+border-radius:5px;
+background-color:blue;
+
+}
+.inp{
+margin-left:10px;
+margin-bottom:15px;
+ padding:10px;
+border:none;
+border-bottom:2px solid;
+}
+.opt{
+  padding:8px;
+margin-left:8px;
+border-radius:5px;
+}
+.ans{
+ padding:10px;
+border:none;
+border-bottom:2px solid;
+margin-left:10px;
+margin-right:10px;
+margin-bottom:10px;
+width:90%;
+}
+.h3{
+margin-left:5px;
+padding:10px;
+}
+h1{
+  text-align:center;
+  background-color: #b0b0b4;
+}
+.header{
+ margin-left:10px;
+ opacity: 1;
+}
+.formula
+{
+  text-align: center;
+  font-size: 30px;
+}
